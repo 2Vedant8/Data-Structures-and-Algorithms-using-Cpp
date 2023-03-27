@@ -19,6 +19,7 @@ int main()
     }
     while (temp != end)
     {
+        cout << "temp: " << temp << " start: " << start << " end: " << end << endl;
         if (arr[temp] == 0)
         {
 
