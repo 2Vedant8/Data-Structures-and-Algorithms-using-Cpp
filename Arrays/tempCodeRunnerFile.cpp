@@ -1,2 +1,2 @@
-
-        int x = a[i]+ 0 + c
+    sort(ans.begin(), ans.end());
+    ans.erase(unique(ans.begin(), ans.end()), ans.end());
